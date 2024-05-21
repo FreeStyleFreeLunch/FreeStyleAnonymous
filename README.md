@@ -209,8 +209,6 @@ Perform style transfer inference according to the following method.
 #### Parameter Recommendation
 Content images with higher quality can achieve better stylization results.
 
-We recommend setting the parameters as: **n=160, b=2.5, s=1**.
-
 When the expression of style information is ambiguous, please reduce b (increase s).
 
 When the expression of content information is unclear, please increase b (decrease s).
