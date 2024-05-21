@@ -229,16 +229,7 @@ For most images, adjusting hyperparameters can usually yield satisfactory result
 
 ### Citation
    
-   ```sh
-   @misc{he2024freestyle,
-      title={FreeStyle: Free Lunch for Text-guided Style Transfer using Diffusion Models},
-      author={Feihong He and Gang Li and Mengyuan Zhang and Leilei Yan and Lingyu Si and Fanzhang Li},
-      year={2024},
-      eprint={2401.15636},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-      }
-   ```
+  
    
 <p align="right">(<a href="#top">back to top</a>)</p>
 
